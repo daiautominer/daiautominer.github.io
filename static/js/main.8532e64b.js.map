@@ -26424,7 +26424,7 @@ n.amdO = {}, n.n = function(e) {
                 }]
             })(e)
         }
-        var nh = n.p + "static/media/logo.a409c83253665c379c675f9cfe4e178c.svg",
+        var nh = n.p + "static/media/logo.png",
             rh = n(2007),
             ih = n(1694),
             oh = t.createContext(),
