@@ -25031,7 +25031,7 @@ n.amdO = {}, n.n = function(e) {
                 })
             }), [n, r, i])
         };
-        var rc = JSON.parse('[{"inputs":[],"stateMutability":"nonpayable","type":"constructor"},{"inputs":[],"name":"BUSD","outputs":[{"internalType":"contract IERC20","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"","type":"address"},{"internalType":"uint256","name":"","type":"uint256"}],"name":"DeposMap","outputs":[{"internalType":"uint256","name":"key","type":"uint256"},{"internalType":"uint256","name":"depoTime","type":"uint256"},{"internalType":"uint256","name":"amt","type":"uint256"},{"internalType":"address","name":"reffy","type":"address"},{"internalType":"bool","name":"initialWithdrawn","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"}],"name":"FeesKey","outputs":[{"internalType":"uint256","name":"daysInSeconds","type":"uint256"},{"internalType":"uint256","name":"feePercentage","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"}],"name":"MainKey","outputs":[{"internalType":"uint256","name":"ovrTotalDeps","type":"uint256"},{"internalType":"uint256","name":"ovrTotalWiths","type":"uint256"},{"internalType":"uint256","name":"users","type":"uint256"},{"internalType":"uint256","name":"compounds","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"}],"name":"PercsKey","outputs":[{"internalType":"uint256","name":"daysInSeconds","type":"uint256"},{"internalType":"uint256","name":"divsPercentage","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"","type":"address"}],"name":"UsersKey","outputs":[{"internalType":"uint256","name":"startDate","type":"uint256"},{"internalType":"uint256","name":"divs","type":"uint256"},{"internalType":"uint256","name":"refBonus","type":"uint256"},{"internalType":"uint256","name":"totalInits","type":"uint256"},{"internalType":"uint256","name":"totalWiths","type":"uint256"},{"internalType":"uint256","name":"totalAccrued","type":"uint256"},{"internalType":"uint256","name":"lastWith","type":"uint256"},{"internalType":"uint256","name":"timesCmpd","type":"uint256"},{"internalType":"uint256","name":"keyCounter","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"dy","type":"address"}],"name":"calcdiv","outputs":[{"internalType":"uint256","name":"totalWithdrawable","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"compound","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"owner","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"stakeRefBonus","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"amtx","type":"uint256"},{"internalType":"address","name":"ref","type":"address"}],"name":"stakeStablecoins","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"userInfo","outputs":[{"components":[{"internalType":"uint256","name":"key","type":"uint256"},{"internalType":"uint256","name":"depoTime","type":"uint256"},{"internalType":"uint256","name":"amt","type":"uint256"},{"internalType":"address","name":"reffy","type":"address"},{"internalType":"bool","name":"initialWithdrawn","type":"bool"}],"internalType":"struct Depo[]","name":"depoList","type":"tuple[]"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"withdrawDivs","outputs":[{"internalType":"uint256","name":"withdrawAmount","type":"uint256"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"keyy","type":"uint256"}],"name":"withdrawInitial","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"withdrawRefBonus","outputs":[],"stateMutability":"nonpayable","type":"function"}]'),
+        var rc = JSON.parse('[{"inputs":[],"stateMutability":"nonpayable","type":"constructor"},{"inputs":[],"name":"DAI","outputs":[{"internalType":"contract IERC20","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"","type":"address"},{"internalType":"uint256","name":"","type":"uint256"}],"name":"DeposMap","outputs":[{"internalType":"uint256","name":"key","type":"uint256"},{"internalType":"uint256","name":"depoTime","type":"uint256"},{"internalType":"uint256","name":"amt","type":"uint256"},{"internalType":"address","name":"reffy","type":"address"},{"internalType":"bool","name":"initialWithdrawn","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"}],"name":"FeesKey","outputs":[{"internalType":"uint256","name":"daysInSeconds","type":"uint256"},{"internalType":"uint256","name":"feePercentage","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"}],"name":"MainKey","outputs":[{"internalType":"uint256","name":"ovrTotalDeps","type":"uint256"},{"internalType":"uint256","name":"ovrTotalWiths","type":"uint256"},{"internalType":"uint256","name":"users","type":"uint256"},{"internalType":"uint256","name":"compounds","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"}],"name":"PercsKey","outputs":[{"internalType":"uint256","name":"daysInSeconds","type":"uint256"},{"internalType":"uint256","name":"divsPercentage","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"","type":"address"}],"name":"UsersKey","outputs":[{"internalType":"uint256","name":"startDate","type":"uint256"},{"internalType":"uint256","name":"divs","type":"uint256"},{"internalType":"uint256","name":"refBonus","type":"uint256"},{"internalType":"uint256","name":"totalInits","type":"uint256"},{"internalType":"uint256","name":"totalWiths","type":"uint256"},{"internalType":"uint256","name":"totalAccrued","type":"uint256"},{"internalType":"uint256","name":"lastWith","type":"uint256"},{"internalType":"uint256","name":"timesCmpd","type":"uint256"},{"internalType":"uint256","name":"keyCounter","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"dy","type":"address"}],"name":"calcdiv","outputs":[{"internalType":"uint256","name":"totalWithdrawable","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"compound","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"owner","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"stakeRefBonus","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"amtx","type":"uint256"},{"internalType":"address","name":"ref","type":"address"}],"name":"stakeStablecoins","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"userInfo","outputs":[{"components":[{"internalType":"uint256","name":"key","type":"uint256"},{"internalType":"uint256","name":"depoTime","type":"uint256"},{"internalType":"uint256","name":"amt","type":"uint256"},{"internalType":"address","name":"reffy","type":"address"},{"internalType":"bool","name":"initialWithdrawn","type":"bool"}],"internalType":"struct Depo[]","name":"depoList","type":"tuple[]"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"withdrawDivs","outputs":[{"internalType":"uint256","name":"withdrawAmount","type":"uint256"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"keyy","type":"uint256"}],"name":"withdrawInitial","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"withdrawRefBonus","outputs":[],"stateMutability":"nonpayable","type":"function"}]'),
             ic = n(7441),
             oc = n(9613),
             ac = n.n(oc);
@@ -38704,7 +38704,7 @@ n.amdO = {}, n.n = function(e) {
                                 }), (0, Ar.jsxs)("h3", {
                                     type: "button",
                                     onClick: function() {
-                                        return navigator.clipboard.writeText("https://busdautomine.org?ref=" + de)
+                                        return navigator.clipboard.writeText("https://DAIautomine.org?ref=" + de)
                                     },
                                     className: "referralButton source font-weight-bold",
                                     children: [(0, Ar.jsx)($f, {
@@ -38797,7 +38797,7 @@ n.amdO = {}, n.n = function(e) {
                                     children: "ENTER STAKE"
                                 }), (0, Ar.jsxs)("p", {
                                     className: "source text-center",
-                                    children: ["Approve and stake your BUSD here. You can view your ongoing stakes in the ", (0, Ar.jsx)("span", {
+                                    children: ["Approve and stake your DAI here. You can view your ongoing stakes in the ", (0, Ar.jsx)("span", {
                                         className: "font-weight-bold",
                                         children: "Current Stakes & Yield"
                                     }), " tab."]
@@ -38809,7 +38809,7 @@ n.amdO = {}, n.n = function(e) {
                                         }), (0, Ar.jsx)($y, {
                                             children: (0, Ar.jsx)(Yy, {
                                                 className: "custom-input text-center source",
-                                                placeholder: "MINIMUM 50 BUSD",
+                                                placeholder: "MINIMUM 50 DAI",
                                                 onChange: function(e) {
                                                     _(e.target.value)
                                                 }
@@ -38838,7 +38838,7 @@ n.amdO = {}, n.n = function(e) {
                                         className: "pr-2"
                                     }), "Your wallet: ", (0, Ar.jsxs)("span", {
                                         className: "text-white font-weight-bold",
-                                        children: [ve.toFixed(2), " BUSD"]
+                                        children: [ve.toFixed(2), " DAI"]
                                     })]
                                 }), (0, Ar.jsxs)("small", {
                                     className: "source text-lightblue text-left",
@@ -38847,7 +38847,7 @@ n.amdO = {}, n.n = function(e) {
                                         className: "pr-2"
                                     }), "Approved amount: ", (0, Ar.jsxs)("span", {
                                         className: "text-white font-weight-bold",
-                                        children: [be.toFixed(2), " BUSD"]
+                                        children: [be.toFixed(2), " DAI"]
                                     })]
                                 }), (0, Ar.jsx)("a", {
                                     className: "source text-left text-underline text-lightblue",
@@ -38859,7 +38859,7 @@ n.amdO = {}, n.n = function(e) {
                                         children: [(0, Ar.jsx)(Zf, {
                                             size: "1.7em",
                                             className: "pr-2"
-                                        }), "Swap your tokens for BUSD here. "]
+                                        }), "Swap your tokens for DAI here. "]
                                     })
                                 })]
                             }), (0, Ar.jsxs)(Dv, {
@@ -38879,7 +38879,7 @@ n.amdO = {}, n.n = function(e) {
                                     children: [(0, Ar.jsx)("span", {
                                         className: "font-weight-bold",
                                         children: "Approval is required "
-                                    }), "prior to staking your BUSD. The protocol will only request approval for the amount entered."]
+                                    }), "prior to staking your DAI. The protocol will only request approval for the amount entered."]
                                 }), (0, Ar.jsxs)("p", {
                                     className: "text-left",
                                     children: [(0, Ar.jsx)("span", {
@@ -39062,7 +39062,7 @@ n.amdO = {}, n.n = function(e) {
                                             }), (0, Ar.jsx)($y, {
                                                 children: (0, Ar.jsx)(Yy, {
                                                     className: "custom-input text-center source",
-                                                    placeholder: "MINIMUM 50 BUSD",
+                                                    placeholder: "MINIMUM 50 DAI",
                                                     onChange: function(e) {
                                                         b(Number(.9 * e.target.value).toFixed(2))
                                                     }
@@ -39155,7 +39155,7 @@ n.amdO = {}, n.n = function(e) {
                             children: (0, Ar.jsxs)(Kv, {
                                 className: "custom-footer",
                                 children: [(0, Ar.jsx)("a", {
-                                    href: "https://paycheck-org.gitbook.io/busd-automine/",
+                                    href: "https://paycheck-org.gitbook.io/DAI-automine/",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: " DOCS "
