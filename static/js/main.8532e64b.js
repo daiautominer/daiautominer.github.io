@@ -26242,7 +26242,7 @@ n.amdO = {}, n.n = function(e) {
         }();
         var Tf, Pf, Rf, If, jf, Lf = Cf,
             Ff = Lf.div(Tf || (Tf = te(["\n  display: flex;\n  flex-direction: column;\n  width: 100%;\n"]))),
-            Df = Lf.button(Pf || (Pf = te(["\n  width: 100%;\n  padding: 10px 10px;\n  margin: 0.8rem;\n  font-size: 1.25rem;\n  background: linear-gradient(269.42deg, #ffffff 33.5%, #d6bce2 69.21%);\n  mix-blend-mode: normal;\n  border-radius: 15px;\n  font-family:Open Sans;\n  border: none;\n  border-bottom-color: none;\n  outline: none;\n      border:none;\n  cursor: ", ";\n  ", "\n  ", "\n"])), (function(e) {
+            Df = Lf.button(Pf || (Pf = te(["\n  width: 100%;\n  padding: 10px 10px;\n  margin: 0.8rem;\n  font-size: 1.25rem;\n  background: linear-gradient(269.42deg, #F7D851 33.5%, #fce68f 69.21%);\n  mix-blend-mode: normal;\n  border-radius: 15px;\n  font-family:Open Sans;\n  border: none;\n  border-bottom-color: none;\n  outline: none;\n      border:none;\n  cursor: ", ";\n  ", "\n  ", "\n"])), (function(e) {
                 return e.disabled ? "default" : "pointer"
             }), (function(e) {
                 return e.active && vf(Rf || (Rf = te(["\n      color: black;\n      font-weight: bold;\n      outline: none;\n      border:none;\n    "])))

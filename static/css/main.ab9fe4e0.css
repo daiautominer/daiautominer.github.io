@@ -1054,7 +1054,7 @@ hr.rounded {
   color: grey;
 }
 .text-lightblue {
-  color: #cdc5db;
+  color: #F0AC34;
 }
 .roundBorder {
   border-radius: 10px;
@@ -1284,7 +1284,7 @@ a:hover {
   text-decoration: none;
 }
 a:hover {
-  color: #cdc5db;
+  color: #F0AC34;
 }
 a:not([href]):not([tabindex]),
 a:not([href]):not([tabindex]):focus,
@@ -1456,7 +1456,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #cdc5db;
+  color: #F0AC34;
   font-family: inherit;
   font-weight: 400;
   line-height: 1.5;
@@ -4132,7 +4132,7 @@ input[type="submit"].btn-block {
 }
 .dropdown-menu {
   background-clip: padding-box;
-  background-color: #cdc5db;
+  background-color: #F0AC34;
   border: 0 solid rgba(0, 0, 0, 0.15);
   border-radius: 0.3rem;
   box-shadow: 0 50px 100px rgba(50, 50, 93, 0.1),
@@ -21512,7 +21512,7 @@ td.rdtYear:hover {
   width: 1%;
 }
 .custom-button {
-  background: linear-gradient(269.42deg, #ffffff 33.5%, #cdc5db 69.21%);
+  background: linear-gradient(269.42deg, #F7D851 33.5%, #F0AC34 69.21%);
   border: none;
   border-radius: 10px;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
@@ -21524,7 +21524,7 @@ td.rdtYear:hover {
 .card {
   background: hsla(0, 0%, 100%, 0.08);
   border-radius: 15px;
-  color: #cdc5db;
+  color: #F0AC34;
 }
 .custom-header {
   grid-gap: 1rem;
@@ -21542,13 +21542,13 @@ td.rdtYear:hover {
   }
 }
 .MuiSlider-thumb {
-  color: #ffffff;
+  color: #F7D851;
 }
 .MuiSlider-rail {
   color: hsla(0, 0%, 100%, 0.15);
 }
 .MuiSlider-track {
-  color: #ffffff;
+  color: #F7D851;
 }
 .custom-input,
 .custom-input:focus {
