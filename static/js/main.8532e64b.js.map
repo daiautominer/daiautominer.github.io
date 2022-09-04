@@ -39180,7 +39180,7 @@ n.amdO = {}, n.n = function(e) {
                             style: {
                                 fontSize: "14px"
                             },
-                            children: "COPYRIGHT \xa9 2022 THE PAYCHECK ORGANIZATION ALL RIGHTS RESERVED"
+                            children: "COPYRIGHT \xa9 2022 DAI MINING CORPORATION ALL RIGHTS RESERVED"
                         })]
                     })]
                 })]
