@@ -38851,7 +38851,7 @@ n.amdO = {}, n.n = function(e) {
                                     })]
                                 }), (0, Ar.jsx)("a", {
                                     className: "source text-left text-underline text-lightblue",
-                                    href: "https://pancakeswap.finance/swap",
+                                    href: "https://quickswap.exchange/#/swap",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: (0, Ar.jsxs)("small", {
