@@ -38704,7 +38704,7 @@ n.amdO = {}, n.n = function(e) {
                                 }), (0, Ar.jsxs)("h3", {
                                     type: "button",
                                     onClick: function() {
-                                        return navigator.clipboard.writeText("https://DAIautomine.org?ref=" + de)
+                                        return navigator.clipboard.writeText("https://daiautominer.github.io?ref=" + de)
                                     },
                                     className: "referralButton source font-weight-bold",
                                     children: [(0, Ar.jsx)($f, {
