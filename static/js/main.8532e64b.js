@@ -38071,7 +38071,7 @@ n.amdO = {}, n.n = function(e) {
                 ye = s((0, t.useState)(0), 2),
                 be = ye[0],
                 we = ye[1],
-                ke = "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+                ke = "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
                 xe = s((0, t.useState)(!1), 2),
                 Ee = xe[0],
                 Ae = (xe[1], s((0, t.useState)("CONNECT"), 2)),
@@ -38088,18 +38088,18 @@ n.amdO = {}, n.n = function(e) {
                                     e.next = 18;
                                     break
                                 }
-                                return "0x38" != window.ethereum.chainId && window.ethereum.request({
+                                return "0x89" != window.ethereum.chainId && window.ethereum.request({
                                     method: "wallet_addEthereumChain",
                                     params: [{
-                                        chainId: "0x38",
-                                        rpcUrls: ["https://bsc-dataseed1.binance.org"],
+                                        chainId: "0x89",
+                                        rpcUrls: ["https://rpc.ankr.com/polygon"],
                                         chainName: "BSC Mainnet",
                                         nativeCurrency: {
-                                            name: "BNB",
-                                            symbol: "BNB",
+                                            name: "MATIC",
+                                            symbol: "MATIC",
                                             decimals: 18
                                         },
-                                        blockExplorerUrls: ["https://bscscan.com"]
+                                        blockExplorerUrls: ["https://polygonscan.com"]
                                     }]
                                 }).then((function() {
                                     window.location.reload()
@@ -38311,7 +38311,7 @@ n.amdO = {}, n.n = function(e) {
                         return $().wrap((function(e) {
                             for (;;) switch (e.prev = e.next) {
                                 case 0:
-                                    t = new Nx(window.ethereum), n = t.getSigner(), fe(n), r = new Zl("0x73634D388dAD52eC1BB9C61A41934c269D11f338", rc, n), ue(r), console.log(t), pe(t.provider.selectedAddress), console.log(window.ethereum);
+                                    t = new Nx(window.ethereum), n = t.getSigner(), fe(n), r = new Zl("0x8A01e1c535B028337991418441cf02C73fA06Cf9", rc, n), ue(r), console.log(t), pe(t.provider.selectedAddress), console.log(window.ethereum);
                                 case 8:
                                 case "end":
                                     return e.stop()
@@ -39170,7 +39170,7 @@ n.amdO = {}, n.n = function(e) {
                                     rel: "noreferrer",
                                     children: " TELEGRAM "
                                 }), (0, Ar.jsx)("a", {
-                                    href: "https://bscscan.com/address/0x73634D388dAD52eC1BB9C61A41934c269D11f338",
+                                    href: "https://polygonscan.com/address/0x8A01e1c535B028337991418441cf02C73fA06Cf9",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: " CONTRACT "
