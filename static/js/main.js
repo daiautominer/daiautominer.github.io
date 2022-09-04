@@ -39155,7 +39155,7 @@ n.amdO = {}, n.n = function(e) {
                             children: (0, Ar.jsxs)(Kv, {
                                 className: "custom-footer",
                                 children: [(0, Ar.jsx)("a", {
-                                    href: "https://paycheck-org.gitbook.io/DAI-automine/",
+                                    href: "https://daiautominer.gitbook.io/dai-automine/",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: " DOCS "
