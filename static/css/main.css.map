@@ -1180,7 +1180,7 @@ section {
   display: block;
 }
 body {
-  background: url(../media/bg.7d98195dd8ab9ddcb86c.jpg);
+  background: url(../media/bg.jpg);
   background-attachment: fixed !important;
   background-position: top !important;
   background-repeat: no-repeat !important;
@@ -21579,4 +21579,4 @@ td.rdtYear:hover {
     padding-right: 5rem;
   }
 }
-/*# sourceMappingURL=main.ab9fe4e0.css.map*/
+/*# sourceMappingURL=main.css.map*/

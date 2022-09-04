@@ -1,4 +1,4 @@
-/*! For license information please see main.8532e64b.js.LICENSE.txt */ ! function() {
+/*! For license information please see main.js.LICENSE.txt */ ! function() {
 	var e = {
         3244: function(e, t, n) {
             ! function(e, t) {
@@ -39209,4 +39209,4 @@ n.amdO = {}, n.n = function(e) {
         }))
     }()
 }();
-//# sourceMappingURL=main.8532e64b.js.map
+//# sourceMappingURL=main.js.map
