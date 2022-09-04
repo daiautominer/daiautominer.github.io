@@ -39160,12 +39160,12 @@ n.amdO = {}, n.n = function(e) {
                                     rel: "noreferrer",
                                     children: " DOCS "
                                 }), (0, Ar.jsx)("a", {
-                                    href: "https://twitter.com/PaycheckOrg",
+                                    href: "https://twitter.com/DaiAutoMiner",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: " TWITTER "
                                 }), (0, Ar.jsx)("a", {
-                                    href: "https://t.me/PaycheckOrg",
+                                    href: "https://t.me/DaiMiner",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: " TELEGRAM "
