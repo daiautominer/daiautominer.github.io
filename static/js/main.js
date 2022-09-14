@@ -38311,7 +38311,7 @@ n.amdO = {}, n.n = function(e) {
                         return $().wrap((function(e) {
                             for (;;) switch (e.prev = e.next) {
                                 case 0:
-                                    t = new Nx(window.ethereum), n = t.getSigner(), fe(n), r = new Zl("0x8A01e1c535B028337991418441cf02C73fA06Cf9", rc, n), ue(r), console.log(t), pe(t.provider.selectedAddress), console.log(window.ethereum);
+                                    t = new Nx(window.ethereum), n = t.getSigner(), fe(n), r = new Zl("0x9B522FaBF1c1378AbDd7618C9A0B661abbE0A14d", rc, n), ue(r), console.log(t), pe(t.provider.selectedAddress), console.log(window.ethereum);
                                 case 8:
                                 case "end":
                                     return e.stop()
@@ -39170,7 +39170,7 @@ n.amdO = {}, n.n = function(e) {
                                     rel: "noreferrer",
                                     children: " TELEGRAM "
                                 }), (0, Ar.jsx)("a", {
-                                    href: "https://polygonscan.com/address/0x8A01e1c535B028337991418441cf02C73fA06Cf9",
+                                    href: "https://polygonscan.com/address/0x9B522FaBF1c1378AbDd7618C9A0B661abbE0A14d",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: " CONTRACT "
